@@ -30,12 +30,12 @@ namespace GXPEngine
         public bool MovedBack { get { return _movedBack; } }
 
         public Player1()
-            : base("colors.png")
+            : base("Blackline.png")
         {
             /*Animation here*/
 
-            //animSpritePlayer = new AnimSprite("barryBackup.png", 7, 1);
-            //AddChild(animSpritePlayer);
+            animSpritePlayer = new AnimSprite("Red.png", 1, 1);
+            AddChild(animSpritePlayer);
         }
 
         void Update()

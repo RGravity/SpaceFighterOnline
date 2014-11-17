@@ -3,3 +3,8 @@ D:\School\Amazing\Project_2D_Platformer\SpaceFighterOnline\sourcefiles\GXPEngine
 D:\School\Amazing\Project_2D_Platformer\SpaceFighterOnline\sourcefiles\GXPEngine\bin\Debug\GXPEngine.pdb
 D:\School\Amazing\Project_2D_Platformer\SpaceFighterOnline\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.exe
 D:\School\Amazing\Project_2D_Platformer\SpaceFighterOnline\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+D:\School\Amazing\SpaceFighterOnline\SpaceFighterOnline\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.exe
+D:\School\Amazing\SpaceFighterOnline\SpaceFighterOnline\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+D:\School\Amazing\SpaceFighterOnline\SpaceFighterOnline\sourcefiles\GXPEngine\bin\Debug\GXPEngine.exe
+D:\School\Amazing\SpaceFighterOnline\SpaceFighterOnline\sourcefiles\GXPEngine\bin\Debug\GXPEngine.pdb
+D:\School\Amazing\SpaceFighterOnline\SpaceFighterOnline\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.csprojResolveAssemblyReference.cache
